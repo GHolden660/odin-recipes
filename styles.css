@@ -1,0 +1,10 @@
+* {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+ul li {
+    list-style-type: square;
+}
+
+h1, h2{ 
+    color: deeppink;
+}
